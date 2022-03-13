@@ -45,11 +45,11 @@
         "picohttpparser-master": "picohttpparser-master"
       },
       "locked": {
-        "lastModified": 1647068254,
-        "narHash": "sha256-5NDObUpIGvZ9j5EPIRuSApW9mY8rfwvTJeUO8ntt2js=",
+        "lastModified": 1647113381,
+        "narHash": "sha256-62L6oqorLvRAUkMYf7WnK+jJ7s/AIdYTdvclY4b1PPc=",
         "owner": "nim-nix-pkgs",
         "repo": "picohttpparser",
-        "rev": "388bee1864a26c4d9441a65d09d4b10bc24b9408",
+        "rev": "d7a74e44e80068991704c4855c98cc20e481d2dc",
         "type": "github"
       },
       "original": {
@@ -72,13 +72,20 @@
         "src-picohttpparser-0_10_0": "src-picohttpparser-0_10_0"
       },
       "locked": {
-        "narHash": "sha256-PH74KCAMQypKWR7Lq4B9y7/Ux3A62bVhw4qMo3+RJPo=",
-        "path": "./0_10_0",
-        "type": "path"
+        "dir": "0_10_0",
+        "lastModified": 1647113381,
+        "narHash": "sha256-62L6oqorLvRAUkMYf7WnK+jJ7s/AIdYTdvclY4b1PPc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "picohttpparser",
+        "rev": "d7a74e44e80068991704c4855c98cc20e481d2dc",
+        "type": "github"
       },
       "original": {
-        "path": "./0_10_0",
-        "type": "path"
+        "dir": "0_10_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "picohttpparser",
+        "type": "github"
       }
     },
     "picohttpparser-0_9_0": {
@@ -94,13 +101,20 @@
         "src-picohttpparser-0_9_0": "src-picohttpparser-0_9_0"
       },
       "locked": {
-        "narHash": "sha256-B4YgyQemBZMQLcGn07iIDLZadydidoxGeJ0UEIsLlh4=",
-        "path": "./0_9_0",
-        "type": "path"
+        "dir": "0_9_0",
+        "lastModified": 1647113381,
+        "narHash": "sha256-62L6oqorLvRAUkMYf7WnK+jJ7s/AIdYTdvclY4b1PPc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "picohttpparser",
+        "rev": "d7a74e44e80068991704c4855c98cc20e481d2dc",
+        "type": "github"
       },
       "original": {
-        "path": "./0_9_0",
-        "type": "path"
+        "dir": "0_9_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "picohttpparser",
+        "type": "github"
       }
     },
     "picohttpparser-master": {
@@ -116,13 +130,20 @@
         "src-picohttpparser-master": "src-picohttpparser-master"
       },
       "locked": {
-        "narHash": "sha256-nVCrIxlxQA+iIpX2L1bJOO7SPJOo8UraFNYLRB0rCKs=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113381,
+        "narHash": "sha256-62L6oqorLvRAUkMYf7WnK+jJ7s/AIdYTdvclY4b1PPc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "picohttpparser",
+        "rev": "d7a74e44e80068991704c4855c98cc20e481d2dc",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "picohttpparser",
+        "type": "github"
       }
     },
     "root": {
