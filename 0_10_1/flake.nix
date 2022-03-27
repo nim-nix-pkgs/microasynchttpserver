@@ -11,6 +11,7 @@
   inputs.src-microasynchttpserver-0_10_1.ref   = "refs/tags/0.10.1";
   inputs.src-microasynchttpserver-0_10_1.owner = "philip-wernersbach";
   inputs.src-microasynchttpserver-0_10_1.repo  = "microasynchttpserver";
+  inputs.src-microasynchttpserver-0_10_1.dir   = "";
   inputs.src-microasynchttpserver-0_10_1.type  = "github";
   
   inputs."picohttpparser".owner = "nim-nix-pkgs";
