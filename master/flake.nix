@@ -11,7 +11,6 @@
   inputs.src-microasynchttpserver-master.ref   = "refs/heads/master";
   inputs.src-microasynchttpserver-master.owner = "philip-wernersbach";
   inputs.src-microasynchttpserver-master.repo  = "microasynchttpserver";
-  inputs.src-microasynchttpserver-master.dir   = "";
   inputs.src-microasynchttpserver-master.type  = "github";
   
   inputs."picohttpparser".owner = "nim-nix-pkgs";
