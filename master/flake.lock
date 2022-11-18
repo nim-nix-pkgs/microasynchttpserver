@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "0_10_0",
-        "lastModified": 1668754748,
-        "narHash": "sha256-ZLWaOmNLiSJQ1ytmw8ycQ8VbZNXGwxNw6IhQtoSIBWw=",
+        "lastModified": 1668776056,
+        "narHash": "sha256-N5TVnNNckrN/tcnDPmcelsKTHOa3wq7tpJoCc+b4f68=",
         "owner": "nim-nix-pkgs",
         "repo": "picohttpparser",
-        "rev": "618af16b38ac736739bf1543f93248c3ec49276d",
+        "rev": "d128021a4936e623cb77f8b552995a19edf6d509",
         "type": "github"
       },
       "original": {
